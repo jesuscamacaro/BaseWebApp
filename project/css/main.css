@@ -32,3 +32,12 @@ button {
   height: 200px;
   margin-top: 60px;
 }
+
+.nav-link{
+  color: white;
+}
+
+.nav-link:hover{
+  color: white;
+  opacity: 0.75;
+}
